@@ -1,0 +1,3 @@
+[submodule "riscv-newlib"]
+	path = riscv-newlib
+	url = https://github.com/riscv/riscv-newlib.git
